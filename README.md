@@ -5,6 +5,11 @@
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-7E57C2?style=for-the-badge)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 [![CLAWVR Paid Version](https://img.shields.io/badge/CLAWVR%20Pro-%24297%20one--time-0D948A?style=for-the-badge)](https://clawvr.com)
+[![GitHub Stars](https://img.shields.io/github/stars/Steffd415/clawvr-mcp-server?style=flat-square&logo=github&color=yellow)](https://github.com/Steffd415/clawvr-mcp-server/stargazers)
+[![Open Issues](https://img.shields.io/github/issues/Steffd415/clawvr-mcp-server?style=flat-square&color=blue)](https://github.com/Steffd415/clawvr-mcp-server/issues)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Steffd415/clawvr-mcp-server/pulls)
+[![Verticals](https://img.shields.io/badge/Verticals-13%2B-orange?style=flat-square)](#supported-verticals-13)
+[![Built for](https://img.shields.io/badge/Built%20for-Claude%20for%20Small%20Business-D97757?style=flat-square&logo=anthropic)](https://claude.com)
 
 **Built for the [Claude for Small Business](https://claude.com) ecosystem.**
 
