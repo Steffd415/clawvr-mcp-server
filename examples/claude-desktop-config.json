@@ -1,0 +1,9 @@
+{
+  "_comment": "Example Claude Desktop config to install the CLAWVR MCP server. Drop this in: macOS ~/Library/Application Support/Claude/claude_desktop_config.json | Windows %APPDATA%/Claude/claude_desktop_config.json | Linux ~/.config/Claude/claude_desktop_config.json. Then restart Claude Desktop.",
+  "mcpServers": {
+    "clawvr": {
+      "command": "npx",
+      "args": ["-y", "clawvr-mcp-server"]
+    }
+  }
+}
