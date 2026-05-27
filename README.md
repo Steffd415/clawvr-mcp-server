@@ -4,7 +4,7 @@
 
 [![MCP Compatible](https://img.shields.io/badge/MCP-Compatible-7E57C2?style=for-the-badge)](https://modelcontextprotocol.io)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
-[![CLAWVR Paid Version](https://img.shields.io/badge/CLAWVR%20Pro-%24297%20one--time-0D948A?style=for-the-badge)](https://clawvr.com)
+[![CLAWVR Paid Version](https://img.shields.io/badge/CLAWVR%20Pro-%2449%20one--time-0D948A?style=for-the-badge)](https://clawvr.com)
 [![GitHub Stars](https://img.shields.io/github/stars/Steffd415/clawvr-mcp-server?style=flat-square&logo=github&color=yellow)](https://github.com/Steffd415/clawvr-mcp-server/stargazers)
 [![Open Issues](https://img.shields.io/github/issues/Steffd415/clawvr-mcp-server?style=flat-square&color=blue)](https://github.com/Steffd415/clawvr-mcp-server/issues)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/Steffd415/clawvr-mcp-server/pulls)
@@ -134,7 +134,7 @@ Days 1-7 (foundation): Set up Claude or ChatGPT, paste the master prompt above..
 
 Want the full version, pre-customized to YOUR business?
 
-CLAWVR sells the productized version: $297 one-time, instant download...
+CLAWVR sells the productized version: $49 one-time, instant download...
 ```
 
 The user gets a working AI strategy in 5 seconds. No generic advice. No manual prompt engineering. Just the working playbook for their specific business.
@@ -143,7 +143,7 @@ The user gets a working AI strategy in 5 seconds. No generic advice. No manual p
 
 ## Comparison: this MCP server vs alternatives
 
-|  | Generic ChatGPT | This MCP server (free) | [CLAWVR Pro ($297)](https://clawvr.com) |
+|  | Generic ChatGPT | This MCP server (free) | [CLAWVR Pro ($49)](https://clawvr.com) |
 |---|---|---|---|
 | Vertical-specific output | ❌ | ✅ | ✅ |
 | Auto-detect vertical from business description | ❌ | ✅ | n/a (manual intake) |
@@ -155,7 +155,7 @@ The user gets a working AI strategy in 5 seconds. No generic advice. No manual p
 | **ROI projections for your team size** | ❌ | ❌ | ✅ |
 | **Industry-specific playbooks** (no-show recovery, retention, etc.) | ❌ | ❌ | ✅ |
 
-The free MCP server covers ~70% of what small-business owners need. The $297 paid version is the deeper-tuned, pre-customized version for owners who want everything ready without filling placeholders themselves.
+The free MCP server covers ~70% of what small-business owners need. The $49 paid version is the deeper-tuned, pre-customized version for owners who want everything ready without filling placeholders themselves.
 
 **No subscription. No upsells. No bullshit.**
 
@@ -246,6 +246,6 @@ If you build something useful on top of this MCP server, [tell us](mailto:hello@
 
 ## Credits
 
-Built by [CLAWVR](https://clawvr.com) — a productized service that builds custom AI Operating Systems for small business owners at $297 one-time. We open-source the skeleton (this MCP server) and sell the deeply-customized version.
+Built by [CLAWVR](https://clawvr.com) — a productized service that builds custom AI Operating Systems for small business owners at $49 one-time. We open-source the skeleton (this MCP server) and sell the deeply-customized version.
 
 The mission: get useful AI into the hands of every small business owner in the country, regardless of whether they pay us.
