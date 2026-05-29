@@ -59,7 +59,7 @@ The free version covers ~70% of what most small-business owners need. The compan
 | `cpa-accountant` | CPAs / Accountants | Solo CPAs, bookkeepers, small firms |
 | `general-smb` | General SMB | Catch-all for any small business |
 
-8 more verticals (Pet Grooming, Auto Repair, Tutoring, Lawn Care, etc.) are available as standalone GitHub Gists at [gist.github.com/Steffd415](https://gist.github.com/Steffd415) — they will be folded into this MCP server in v1.1.
+12 more verticals (Pet Grooming, Auto Repair, Tutoring, Lawn Care, Vet Clinic, Photographer, Fitness Studio, Insurance Agency, and more) are available as standalone GitHub Gists at [gist.github.com/Steffd415](https://gist.github.com/Steffd415) — They will be folded into this MCP server in v1.1.
 
 ---
 
